@@ -13,3 +13,6 @@ var response = scan();
 console.log(response);
 // {state:"Finished", imagePath:"./tmp/14338224024.jpeg"}
 ```
+
+# Related
+[osx-scanner](https://github.com/Urucas/osx-scanner) - Scanning in osx from command-line
