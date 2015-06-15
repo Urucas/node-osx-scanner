@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 var scan = require('../node/');
-var response = scan();
+var response = scan({});
 console.log(response);
