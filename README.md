@@ -9,11 +9,10 @@ npm install --save node-osx-scanner
 # Usage
 ```javascript
 var scan = require("node-osx-scanner");
-var response = scan({});
+var response = scan();
 console.log(response);
 // {state:"Finished", imagePath:"./tmp/14338224024.jpeg"}
 ```
-**Important**: Set scan default param as ```{}```
 
 # Options
 Scan params:
