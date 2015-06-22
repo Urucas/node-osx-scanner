@@ -1,6 +1,6 @@
 {
   "name": "node-osx-scanner",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Scanning on osx from Node",
   "main": "node/index",
   "scripts": {
@@ -34,6 +34,6 @@
   "homepage": "https://github.com/Urucas/node-osx-scanner",
   "dependencies": {
     "babel": "^5.5.5",
-    "osx-scanner": "0.0.1"
+    "osx-scanner": "0.0.2"
   }
 }
